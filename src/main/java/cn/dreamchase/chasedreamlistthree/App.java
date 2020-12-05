@@ -1,4 +1,4 @@
-package cn.dreamchase.chasedream_listthree;
+package cn.dreamchase.chasedreamlistthree;
 
 /**
  * Hello world!
